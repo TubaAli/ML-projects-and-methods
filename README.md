@@ -37,7 +37,7 @@ Know which Machine Learning model to choose for each type of problem
 Build an army of powerful Machine Learning models and know how to combine them to solve any problem
 
 The datasets and other supplementary materials are available at: https://www.superdatascience.com/machine-learning/
-Special Thanks to Kirill Eremenko and Hadelin de Ponteves and SuperDataScience Team.
 
+Special Thanks to Kirill Eremenko and Hadelin de Ponteves and SuperDataScience Team.
 Enjoy Machine Learning!
 
